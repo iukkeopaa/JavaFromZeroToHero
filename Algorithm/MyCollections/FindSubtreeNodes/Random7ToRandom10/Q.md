@@ -1,0 +1,1 @@
+给定 random7 返回 random10

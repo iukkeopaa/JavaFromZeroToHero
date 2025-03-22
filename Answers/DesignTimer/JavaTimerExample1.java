@@ -1,0 +1,22 @@
+package DesignTimer;
+
+import java.util.Timer;
+import java.util.TimerTask;
+
+public class JavaTimerExample1 {
+    public static void main(String[] args) {
+        // 创建一个 Timer 对象
+        Timer timer = new Timer();
+
+        // 创建一个 TimerTask 对象，重写 run 方法，定义任务逻辑
+        TimerTask task = new TimerTask() {
+            @Override
+            public void run() {
+                System.out.println("定时任务执行，当前时间：" + System.currentTimeMillis());
+            }
+        };
+
+        // 安排任务在延迟 1000 毫秒后开始执行，之后每隔 2000 毫秒执行一次
+        timer.schedule(task, 1000, 2000);
+    }
+}
