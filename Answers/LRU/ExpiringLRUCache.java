@@ -93,16 +93,16 @@ class ExpiringLRUCache<K, V> {
     }
 
     // 测试
-    public static void main(String[] args) throws InterruptedException {
-        ExpiringLRUCache<Integer, String> cache = new ExpiringLRUCache<>(3, 2, "active");
-
-        cache.put(1, "A");
-        cache.put(2, "B");
-        cache.put(3, "C");
-
-        System.out.println(cache.get(1)); // 输出: A
-        Thread.sleep(3000); // 等待3秒，让缓存项过期
-        System.out.println(cache.get(1)); // 输出: null (已过期)
-        System.out.println(cache.size()); // 输出: 0 (过期项已被移除)
-    }
+//    public static void main(String[] args) throws InterruptedException {
+//        ExpiringLRUCache<Integer, String> cache = new ExpiringLRUCache<>(3, 2, "active");
+//
+//        cache.put(1, "A");
+//        cache.put(2, "B");
+//        cache.put(3, "C");
+//
+//        System.out.println(cache.get(1)); // 输出: A
+//        Thread.sleep(3000); // 等待3秒，让缓存项过期
+//        System.out.println(cache.get(1)); // 输出: null (已过期)
+//        System.out.println(cache.size()); // 输出: 0 (过期项已被移除)
+//    }
 }
