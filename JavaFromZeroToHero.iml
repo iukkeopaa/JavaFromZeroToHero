@@ -6,6 +6,17 @@
       <sourceFolder url="file://$MODULE_DIR$/Algorithm" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Answers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/BaseDataStructure" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaBaseContent/Java8/Collection" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaBaseContent/Java8/FunctionalProgramming" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaBaseContent/Java8/Stream" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaBaseContent/Java8/consumer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaBaseContent/Java8/default_methods" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaBaseContent/Java8/methodref" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaBaseContent/Java8/optional" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaBaseContent/Java8/parallel_streams" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaBaseContent/Java8/repo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaBaseContent/Java8/streams" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Linux" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -22,3 +22,7 @@ This folder contains some basic data structure implementation, such as array, li
 ## IQProblems Folder
 
 This folder contains some IQ problems. Mostly intellectual questions in interviews.
+
+## JavaBaseContent
+
+This folder contains some JavaBase content,
