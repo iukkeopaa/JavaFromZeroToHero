@@ -1,6 +1,11 @@
 # JavaFromZeroToHero
 
 
+âœ‹ At the same time I am actively preparing for the job search process, share it out and learn from you, I hope we can make progress and work together! ğŸ‘¨â€ğŸ’»
+
+ğŸ’ªğŸ’ªğŸ’ª
+
+ğŸ¤— This warehouse is some of the accumulation and summary of my learning process, it is often said that the thick accumulation and thin start, broad view and about to take, only a lot of accumulation coupled with subtle thinking can be used for their own!
 
 ## Algorithm Folder
 
@@ -9,7 +14,7 @@ This folder contains some brushed-up algorithmic topics, mainly from some classi
 
 ### CrackingTheCodingInterview 
 
-This folder contains code about this [book](Books/³ÌĞòÔ±ÃæÊÔ½ğµä.pdf)
+This folder contains code about this [book](Books/ç¨‹åºå‘˜é¢è¯•é‡‘å…¸.pdf)
 
 ### DaChangBrushUpClass 
 
@@ -21,28 +26,28 @@ This folder contains code about class of Zuo
 
 ### FantasticAlgorithms
 
-### MyCollections ??????
+### MyCollections â­ï¸â­ï¸â­
 
 
 This folder is the process of learning algorithms I collected a variety of algorithmic questions, including real questions, high-frequency words, and so on a variety of topics, each topic of the code can be run, and the problem is also given in the code in the form of comments, it is really recommended that you can look at!
 ### SwordForOffer
 
-This folder cotains code about this [book](Books/½£Ö¸%20Offer%20(1).pdf)
+This folder cotains code about this [book](Books/å‰‘æŒ‡%20Offer%20(1).pdf)
 
 ### TheLawofProgrammingAlgorithmsAndInterviewTips
 
-This folder cotains code about this [book](Books/³ÌĞòÔ±´úÂëÃæÊÔÖ¸ÄÏ%20ITÃûÆóËã·¨ÓëÊı¾İ½á¹¹ÌâÄ¿×îÓÅ½â£¨×ó³ÌÔÆÖø£©%20.pdf)
+This folder cotains code about this [book](Books/ç¨‹åºå‘˜ä»£ç é¢è¯•æŒ‡å—%20ITåä¼ç®—æ³•ä¸æ•°æ®ç»“æ„é¢˜ç›®æœ€ä¼˜è§£ï¼ˆå·¦ç¨‹äº‘è‘—ï¼‰%20.pdf)
 
 ###
 
 ### TheBeautyofProgramming
 
-This folder cotains code about this [book](Books/±à³ÌÖ®ÃÀ-ÍêÕû°æ.pdf)
+This folder cotains code about this [book](Books/ç¼–ç¨‹ä¹‹ç¾-å®Œæ•´ç‰ˆ.pdf)
 
 
 ### XiaoHuiAlgorithmicJourney 
 
-This folder cotains code about this [book](Books/Âş»­Ëã·¨£ºĞ¡»ÒµÄËã·¨Ö®ÂÃ.pdf)
+This folder cotains code about this [book](Books/æ¼«ç”»ç®—æ³•ï¼šå°ç°çš„ç®—æ³•ä¹‹æ—….pdf)
 
 ## Answers Folder
 
@@ -66,6 +71,6 @@ This folder contains some JavaBase content,
 
 This folder contains some Linux content,
 
-## LeetCodeHot100  ?????
+## LeetCodeHot100  â­ï¸â­ï¸â­
 
 List of recognized essential algorithmic interview questions.
