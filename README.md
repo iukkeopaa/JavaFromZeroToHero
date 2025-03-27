@@ -7,7 +7,42 @@
 
 This folder contains some brushed-up algorithmic topics, mainly from some classic algorithm books, where folder a is a collection of high-frequency interesting algorithmic problems
 
+### CrackingTheCodingInterview 
 
+This folder contains code about this [book](Books/程序员面试金典.pdf)
+
+### DaChangBrushUpClass 
+
+This folder contains code about class of Zuo
+
+### DaiMaSuiXiangNote
+
+### DPclass
+
+### FantasticAlgorithms
+
+### MyCollections ??????
+
+
+This folder is the process of learning algorithms I collected a variety of algorithmic questions, including real questions, high-frequency words, and so on a variety of topics, each topic of the code can be run, and the problem is also given in the code in the form of comments, it is really recommended that you can look at!
+### SwordForOffer
+
+This folder cotains code about this [book](Books/剑指%20Offer%20(1).pdf)
+
+### TheLawofProgrammingAlgorithmsAndInterviewTips
+
+This folder cotains code about this [book](Books/程序员代码面试指南%20IT名企算法与数据结构题目最优解（左程云著）%20.pdf)
+
+###
+
+### TheBeautyofProgramming
+
+This folder cotains code about this [book](Books/编程之美-完整版.pdf)
+
+
+### XiaoHuiAlgorithmicJourney 
+
+This folder cotains code about this [book](Books/漫画算法：小灰的算法之旅.pdf)
 
 ## Answers Folder
 
@@ -26,3 +61,11 @@ This folder contains some IQ problems. Mostly intellectual questions in intervie
 ## JavaBaseContent
 
 This folder contains some JavaBase content,
+
+## Linux
+
+This folder contains some Linux content,
+
+## LeetCodeHot100  ?????
+
+List of recognized essential algorithmic interview questions.

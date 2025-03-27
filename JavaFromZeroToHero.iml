@@ -17,6 +17,7 @@
       <sourceFolder url="file://$MODULE_DIR$/JavaBaseContent/Java8/repo" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JavaBaseContent/Java8/streams" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Linux" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCodeHot100" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
